@@ -1,0 +1,1 @@
+# Solving-for-three-dimensional-central-potentials-using-matrix-mechanics
